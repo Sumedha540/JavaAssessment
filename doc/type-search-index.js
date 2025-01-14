@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"week4","l":"C"},{"p":"week4","l":"MobileSignUp"},{"p":"week4","l":"Ques1"},{"p":"week4","l":"Ques2"},{"p":"week4","l":"Ques4"},{"p":"week4","l":"Ques5"},{"p":"week4","l":"Ques6"}];updateSearchResults();
